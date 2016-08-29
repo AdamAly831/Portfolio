@@ -1,0 +1,45 @@
+ 
+ body{
+ 	font-style: lato light;
+ 	background-color: white;
+ }
+.navbar navbar-inverse img{
+	height: 200px;
+	width: 200px;
+}
+
+
+#navbar-brand{
+	width: 200px;
+	height: 200px;
+}
+.navbar-nav > li{
+	  list-style-type: none;
+    margin: 0;
+    padding-top: 2px;
+    padding-left: 200px;
+    width: 60px;
+}
+ 
+ .jumbotron{
+ 	background-color: #1899B7
+ }
+.jumbotron p{
+color: white;
+	padding-left: 400px;
+	vertical-align: center;
+	 
+}
+.carousel{
+
+  margin-top: -20px;
+   margin-bottom: 0px;
+ 
+}
+
+ .navbar .nav > li > a {
+  line-height: 10px;
+}
+.row{
+	padding-top: 5px;
+}
